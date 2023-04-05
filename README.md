@@ -1,5 +1,5 @@
 # RL_Exercises
-Reinforcement learning exercises from Sutton &amp; Barto's "Reinforcement Learning: An Introduction" (2014)
+Reinforcement learning exercises from Sutton &amp; Barto's "Reinforcement Learning: An Introduction" (1992)
 
 ### Jack's car rental problem
 
